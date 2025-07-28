@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-mw_mup#2nz!0g0jyi%1t328ik2l7*yhi#$7pir6ke_9*weep=j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['leapmukazo9.pythonanywhere.com']
 
 
 # Application definition
